@@ -8,7 +8,7 @@ This repository contains my experimental work and problem-solving journey for th
 
 | Ciphathon | Capture The Flag | Top 5
 | :---: | :---: |
-| <a href="CIPHATHON HACKATHON .jpg"><img src="CIPHATHON HACKATHON .jpg" alt="Certificate for Aayush Pawar showing participation in Cyberhackathon CIPHATHON 26 at MIT World Peace University Pune with organizer logos and signatures" width="350"></a> | <a href="CIPHATHON HACKATHON .jpg"><img src="CIPHATHON HACKATHON .jpg" alt="Certificate for Aayush Pawar showing participation in Cyberhackathon CIPHATHON 26 at MIT World Peace University Pune with organizer logos and signatures" width="350"></a> |
+| <a href="CIPHATHON CTF .jpg"><img src="CIPHATHON HACKATHON .jpg" alt="Certificate for Aayush Pawar showing participation in Cyberhackathon CIPHATHON 26 at MIT World Peace University Pune with organizer logos and signatures" width="350"></a> | <a href="CIPHATHON HACKATHON .jpg"><img src="CIPHATHON HACKATHON .jpg" alt="Certificate for Aayush Pawar showing participation in Cyberhackathon CIPHATHON 26 at MIT World Peace University Pune with organizer logos and signatures" width="350"></a> |
 
 | Ciphathon | Hackathon | 
 | :---: | :---: |
